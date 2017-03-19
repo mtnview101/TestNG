@@ -83,7 +83,7 @@
 							<threadCount>4</threadCount>
 					<archive>
 						<manifest>
-							<mainClass>core.HtmlUnit_CLO_List</mainClass>
+							<mainClass>core.NewGenerationTestt</mainClass>
 						</manifest>
 					</archive>
 					
@@ -97,7 +97,7 @@
 						<id>assemble-all</id>
 						<phase>package</phase>
 						<goals>
-							<goal>single</goal>
+							<goal>site</goal>
 						</goals>
 					</execution>
 				</executions>
